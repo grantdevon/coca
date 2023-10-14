@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109452486103",
+    "project_id": "coca-a17b1",
+    "storage_bucket": "coca-a17b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109452486103:android:43bdd45f23bc9dec815792",
+        "android_client_info": {
+          "package_name": "com.coca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK-NMW6uIYp1zXR1QRI013N9ePazsi0rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
